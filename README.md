@@ -22,7 +22,6 @@ def bench_multiply():
     return 5 ** 25
 ```
 
-
 Step 2: Download raptor.py
 ```
 pip install python-raptor
